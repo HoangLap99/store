@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Sever.master.cs" Inherits="quanlycuahang.marterpage.Sever" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="../style/style.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            	<header>
+		<div class="container">
+			<div class="logo">
+				<a href="#">LAN NGUYỄN</a>
+			</div>
+			<nav class="menu">
+				<ul>
+					<li><a href="../admin/DanhSachCus.aspx" class="active">Danh Sách Khách Hàng</a></li>
+					<li><a href="../admin/DanhSachcate.aspx" class="">Quản Lý categories</a></li>
+					<li><a href="../admin/DanhSachTypes.aspx" class="">Quản Lý producTypes</a></li>
+					<li><a href="../admin/DanhSachPro.aspx" class="">Quản Lý Products</a></li>
+					<li><a href="../admin/danhSachorder.aspx" class="">Quản Lý đơn hàng</a></li>
+				</ul>
+			</nav>
+			<div class="icon">
+				<div class="wrap">
+					<span class="more"><a href="../client/trangchu.aspx">Đăng Xuất</a></span>
+				</div>
+			</div>
+		</div>
+	</header>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+			<footer>
+      <table style="padding-left:20px; background:url(../images/discount_bg.png); color:white">
+		  <tr>
+			  <td style="width:30%; text-align:left "><h4>SHOP THỜI TRANG LAN NGUYỄN</h4>
+                  <p>Địa chỉ: Chùa Láng, Quận Đống Đa, Hà Nội</p>
+                  <p>Người đại diện: Nguyễn Thị Lan</p>
+				  <p>Mã số thuế: 0123456789, ngày cấp ĐKKD 10/08/2020. Nơi cấp: Sở kế hoạch và đầu tư Hà Nội<</p>
+</td>
+			  <td style="width:22%; text-align:center " >
+				  <table >
+					  <tr><td><h4>Chính Sách</h4></td></tr>
+					  <tr><td><a href="../client/CSDoiTra.aspx">CS đổi trả</a></td></tr>
+				  </table>
+			  </td>
+			  <td style="width:22%; text-align:center "><h4>Tư Vấn Mua Hàng</h4>
+				 <p> SDT:0987456321</p>
+				 <p> tất cả các ngày trong tuần</p>
+			  </td>
+			  <td style="width:22%; text-align:center "><h4>Chăm sóc khách hàng</h4>
+				 <p> SDT:0987456321</p>
+				 <p> tất cả các ngày trong tuần</p>
+			  </td>
+		  </tr>
+      </table>
+		<div class="copyright">
+			<p>
+				Copyright 2020 SHOP LAN NGUYỄN   -  Design by HDLAP
+			</p>
+			<div class="social">
+				<a href="#" class="visa"></a>
+				<a href="#" class="paypal"></a>
+				<a href="#" class="amazon"></a>
+				<a href="#" class="maestro"></a>
+				<a href="#" class="amex"></a>
+			</div>
+		</div>
+	</footer>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,118 @@
+D:\lap\quanlycuahang\quanlycuahang\bin\quanlycuahang.dll.config
+D:\lap\quanlycuahang\quanlycuahang\bin\quanlycuahang.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\quanlycuahang.pdb
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\csc.exe
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\csc.exe.config
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\csc.rsp
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\csi.exe
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\csi.exe.config
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\csi.rsp
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.AppContext.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Collections.Immutable.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Console.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Globalization.Calendars.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.IO.Compression.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.IO.FileSystem.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Net.Http.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Net.Sockets.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Reflection.Metadata.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.ValueTuple.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Xml.XPath.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\vbc.exe
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\vbc.exe.config
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\vbc.rsp
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\VBCSCompiler.exe
+D:\lap\quanlycuahang\quanlycuahang\bin\roslyn\VBCSCompiler.exe.config
+D:\lap\quanlycuahang\quanlycuahang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\lap\quanlycuahang\quanlycuahang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\lap\quanlycuahang\quanlycuahang\obj\Debug\quanlycuahang.csprojAssemblyReference.cache
+D:\lap\quanlycuahang\quanlycuahang\obj\Debug\quanlycuahang.csproj.CoreCompileInputs.cache
+D:\lap\quanlycuahang\quanlycuahang\obj\Debug\quanlycuahang.csproj.CopyComplete
+D:\lap\quanlycuahang\quanlycuahang\obj\Debug\quanlycuahang.dll
+D:\lap\quanlycuahang\quanlycuahang\obj\Debug\quanlycuahang.pdb
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\quanlycuahang.dll.config
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\quanlycuahang.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\quanlycuahang.pdb
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\csc.exe
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\csc.exe.config
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\csc.rsp
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\csi.exe
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\csi.exe.config
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\csi.rsp
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.Managed.Core.targets
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.AppContext.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Collections.Immutable.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Console.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Globalization.Calendars.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.IO.Compression.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.IO.FileSystem.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Net.Http.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Net.Sockets.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Reflection.Metadata.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.ValueTuple.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Xml.XmlDocument.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Xml.XPath.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\vbc.exe
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\vbc.exe.config
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\vbc.rsp
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\VBCSCompiler.exe
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\roslyn\VBCSCompiler.exe.config
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\obj\Debug\quanlycuahang.csproj.AssemblyReference.cache
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\obj\Debug\quanlycuahang.csproj.CoreCompileInputs.cache
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\obj\Debug\quanlycuahang.csproj.CopyComplete
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\obj\Debug\quanlycuahang.dll
+F:\thực tập tốt nghiệp\quanlycuahang\quanlycuahang\obj\Debug\quanlycuahang.pdb
